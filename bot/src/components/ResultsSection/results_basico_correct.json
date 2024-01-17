@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Javascript",
+        "zone1": 0,
+        "out1": 0,
+        "score1": 24.22,
+        "zone2": 0,
+        "out2": 8,
+        "score2": 51.94
+    },
+    {
+        "name": "Transformers@ESIC",
+        "zone1": 0,
+        "out1": 0,
+        "score1": 64.84,
+        "zone2": 0,
+        "out2": 29.16,
+        "score2": 144.92
+    },
+    {
+        "name": "Mega-Bots",
+        "zone1": 0,
+        "out1": 1,
+        "score1": 23.74,
+        "zone2": 0,
+        "out2": 0,
+        "score2": 37.61
+    },
+    {
+        "name": "Tech Ninjas",
+        "zone1": 0,
+        "out1": 0,
+        "score1": 23.07,
+        "zone2": 0,
+        "out2": 3.6,
+        "score2": 40.89
+    },
+    {
+        "name": "CNM Robotics",
+        "zone1": 0,
+        "out1": 1,
+        "score1": 30.08,
+        "zone2": 0,
+        "out2": 9.51,
+        "score2": 56.36
+    }
+]

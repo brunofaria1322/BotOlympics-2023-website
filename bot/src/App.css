@@ -1,0 +1,28 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: "SFCompact";
+}
+
+body{
+  background: #010606;
+  color: #000;
+}
+
+h1, h2{
+  font-family: "GothamBold";
+  color: #39A7DF;
+}
+
+a{
+  color: #fff;
+}
+
+a:visited{
+  color: #fff;
+}
+
+a:hover{
+  color: #39A7DF;
+}

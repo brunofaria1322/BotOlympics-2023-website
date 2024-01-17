@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Javascript",
+        "score1": 24.22,
+        "penalty1": 0,
+        "score2": null,
+        "penalty2": null
+    },
+    {
+        "name": "Transformers@ESIC",
+        "score1": 64.84,
+        "penalty1": 0,
+        "score2": null,
+        "penalty2": null
+    },
+    {
+        "name": "Mega-Bots",
+        "score1": 23.74,
+        "penalty1": 10,
+        "score2": null,
+        "penalty2": null
+    },
+    {
+        "name": "Tech Ninjas",
+        "score1": 23.07,
+        "penalty1": 0,
+        "score2": null,
+        "penalty2": null
+    },
+    {
+        "name": "CNM Robotics",
+        "score1": 30.08,
+        "penalty1": 10,
+        "score2": null,
+        "penalty2": null
+    }
+]

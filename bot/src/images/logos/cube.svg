@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2aa7df;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-11 {
+        fill: #39a7df;
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-12);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="258.9" y1="469.87" x2="459.46" y2="149.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d9ec4"/>
+      <stop offset="1" stop-color="#2da6d6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="399.44" y1="204.58" x2="295.63" y2="470.56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e6f3ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="398.55" y1="243.5" x2="347.78" y2="396.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#303336"/>
+      <stop offset="1" stop-color="#222426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="375.74" y1="235.93" x2="324.97" y2="389.01" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="214.21" y1="-46.93" x2="290.74" y2="322.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3bb1e0"/>
+      <stop offset="1" stop-color="#2da6d6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="245.71" y1="44.55" x2="256.82" y2="248.65" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-7" x1="250.34" y1="83.65" x2="187.45" y2="175.34" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-8" x1="282.49" y1="105.7" x2="219.6" y2="197.39" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-9" x1="-6" y1="193.22" x2="351.67" y2="477.38" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="194.13" y1="237.45" x2="54.7" y2="442.05" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-11" x1="195.85" y1="269.2" x2="120.83" y2="409.39" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-12" x1="164.05" y1="252.18" x2="89.03" y2="392.37" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="BACKGROUND">
+    <polyline class="cls-1" points="35.84 126.47 249.47 2.32 464.5 126.46 464.5 373.14 250.87 497.29 35.84 373.15 35.84 126.47"/>
+  </g>
+  <g id="OBJECTS">
+    <g>
+      <polygon class="cls-2" points="250.87 250.61 464.5 126.46 464.5 373.14 250.87 497.29 250.87 250.61"/>
+      <polyline class="cls-3" points="417.42 170.81 297.85 240.29 297.8 258.99 281.64 268.38 281.59 287.07 265.43 296.46 265.43 434.53 281.58 425.14 281.53 443.83 297.69 434.44 297.64 453.13 417.2 383.65 417.25 364.96 433.41 355.57 433.47 336.88 449.63 327.49 449.63 189.41 433.47 198.8 433.52 180.11 417.36 189.5 417.42 170.81"/>
+      <g>
+        <polygon class="cls-4" points="345.05 389.24 369.22 375.19 369.3 347.24 345.13 361.29 345.05 389.24"/>
+        <polygon class="cls-5" points="387.41 245.93 387.45 231.95 327.57 266.75 327.53 280.73 315.44 287.75 315.36 315.69 339.53 301.65 339.57 287.68 375.29 266.92 375.21 294.88 363.39 301.74 363.35 315.71 345.23 326.24 345.15 354.19 369.32 340.15 369.36 326.17 387.48 315.64 387.52 301.66 399.33 294.8 399.5 238.91 387.41 245.93"/>
+      </g>
+      <polygon class="cls-6" points="35.84 126.47 249.47 2.32 464.5 126.46 250.87 250.61 35.84 126.47"/>
+      <polyline class="cls-7" points="402.44 107.68 282.1 38.2 265.94 47.59 249.67 38.2 233.51 47.59 217.25 38.2 97.69 107.68 113.95 117.07 97.79 126.47 114.06 135.85 97.9 145.25 218.24 214.73 234.4 205.34 250.67 214.73 266.82 205.34 283.09 214.73 402.65 145.25 386.39 135.85 402.55 126.46 386.28 117.07 402.44 107.68"/>
+      <g>
+        <polygon class="cls-8" points="177.37 154.69 201.69 168.73 225.86 154.69 201.53 140.64 177.37 154.69"/>
+        <polygon class="cls-9" points="322.46 119.37 334.54 112.34 274.27 77.55 262.18 84.57 250.02 77.55 225.86 91.59 250.19 105.63 262.26 98.61 298.21 119.37 274.04 133.41 262.15 126.55 250.07 133.56 231.84 123.03 207.67 137.08 231.99 151.12 244.08 144.1 262.32 154.63 274.4 147.61 286.29 154.47 334.62 126.39 322.46 119.37"/>
+      </g>
+      <polygon class="cls-10" points="250.87 250.61 250.87 497.29 35.84 373.15 35.84 126.47 250.87 250.61"/>
+      <polygon class="cls-1" points="250.87 253.92 464.5 129.77 464.5 126.46 250.87 250.61 250.87 253.92"/>
+      <polygon class="cls-11" points="35.84 129.77 250.87 253.92 250.87 250.61 35.84 126.47 35.84 129.77"/>
+      <polyline class="cls-12" points="203.48 240.29 83.13 170.81 83.08 189.5 66.81 180.11 66.76 198.8 50.5 189.41 50.5 327.91 66.76 337.3 66.71 356 82.97 365.38 82.92 384.07 203.26 453.56 203.32 434.87 219.58 444.25 219.64 425.56 235.9 434.96 235.9 296.46 219.64 287.06 219.69 268.38 203.42 258.99 203.48 240.29"/>
+      <g>
+        <polygon class="cls-13" points="130.65 375.2 154.97 389.25 155.05 361.29 130.72 347.25 130.65 375.2"/>
+        <polygon class="cls-14" points="173.43 280.72 173.32 266.75 113.05 231.95 113.15 245.92 100.84 238.91 100.91 266.84 125.24 280.88 125.13 266.92 161.07 287.68 161.15 315.63 149.1 308.77 149.22 322.72 130.83 312.2 130.9 340.15 155.22 354.19 155.11 340.22 173.35 350.75 173.39 336.78 185.43 343.64 185.44 287.75 173.43 280.72"/>
+      </g>
+    </g>
+  </g>
+</svg>
