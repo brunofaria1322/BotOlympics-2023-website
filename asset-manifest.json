@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BotOlympics-2023-website/static/css/main.d070b94d.css",
-    "main.js": "/BotOlympics-2023-website/static/js/main.e6f07379.js",
+    "main.js": "/BotOlympics-2023-website/static/js/main.ae9b0977.js",
     "static/media/video.mp4": "/BotOlympics-2023-website/static/media/video.0b157dd4f02e029db8f5.mp4",
     "static/media/SF-Compact.ttf": "/BotOlympics-2023-website/static/media/SF-Compact.dc6049bc4356736daf6b.ttf",
     "static/media/cmc.svg": "/BotOlympics-2023-website/static/media/cmc.b8d502a3db9086a4114ba2c633cdf530.svg",
@@ -63,10 +63,10 @@
     "index.html": "/BotOlympics-2023-website/index.html",
     "static/media/map_marker.svg": "/BotOlympics-2023-website/static/media/map_marker.f37ee9ff187bfab4e3d2ee6ca7227dec.svg",
     "main.d070b94d.css.map": "/BotOlympics-2023-website/static/css/main.d070b94d.css.map",
-    "main.e6f07379.js.map": "/BotOlympics-2023-website/static/js/main.e6f07379.js.map"
+    "main.ae9b0977.js.map": "/BotOlympics-2023-website/static/js/main.ae9b0977.js.map"
   },
   "entrypoints": [
     "static/css/main.d070b94d.css",
-    "static/js/main.e6f07379.js"
+    "static/js/main.ae9b0977.js"
   ]
 }
