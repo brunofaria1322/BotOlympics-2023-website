@@ -11,14 +11,12 @@ import ResultsPageOther from './pages/results_test';
 
 function App() {
   return (
-    <Router>
       <Routes>
         <Route path="/" element={<Home/>} />
         {/* <Route path="/registration" element={<RegistrationPage/>} /> */}
         <Route path="/results" element={<ResultsPage/>} />
         <Route path="/results_test" element={<ResultsPageOther/>} />
       </Routes>
-    </Router>
   );
 }
 
